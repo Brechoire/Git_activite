@@ -1,8 +1,19 @@
 p{
   color: blue;
+<<<<<<< HEAD
   border: 1px solid blue;
 }
 
 body{
   background: #000;
+=======
+}
+
+body{
+  background: #fff;
+}
+
+a{
+  color: green;
+>>>>>>> modification
 }
